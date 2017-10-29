@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="action_settings">Admin</string>
+    <string name="action_notificatios">Notifications</string>
+    <string name="title_activity_user">Eventos App</string>
+    <string name="title_activity_admin">Eventos App</string>
+    <string name="hint_usersName">UserName</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_lastName">Lats Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_nameEvent">Nombre Evento</string>
+    <string name="hint_attenEvent">Encargado del Evento</string>
+    <string name="hint_cityEvent">Lugar</string>
+    <string name="hint_dateEvent">Seleccione Fecha</string>
+    <string name="hint_hourEvent">Seleccione Hora</string>
+    <string name="hint_requirementEvent">Requisitos</string>
+    <string name="hint_descriptionEvent">Descripción</string>
+    <string name="txt_event">Lista Eventos</string>
+    <string name="hint_date">Fecha:</string>
+    <string name="hint_hour">Hora:</string>
+    <string name="hint_type">Tipo:</string>
+    <string name="txt_idEvent">Codigo:</string>
+    <string name="action_sing_out">Sign out</string>
+
+</resources>
