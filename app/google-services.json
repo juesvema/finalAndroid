@@ -8,50 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:904407805254:android:67f3f6693f4e6fd1",
-        "android_client_info": {
-          "package_name": "com.programacion.movil.estemanp.androidmvcapplication"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "904407805254-u40avvn47sckhnqqp9664nod7ss3nh4u.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.programacion.movil.estemanp.androidmvcapplication",
-            "certificate_hash": "292a9cbc07b2e60d7a2beb351c1ea93f832d7fa2"
-          }
-        },
-        {
-          "client_id": "904407805254-all3fpt5l546aosvc8o61mr0mh9d279n.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCt_Xx314a1Kzo3L-2cWMROF3ymMtUtERU"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "904407805254-all3fpt5l546aosvc8o61mr0mh9d279n.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:904407805254:android:65113d923c4e58e1",
         "android_client_info": {
           "package_name": "com.example.user.afinal"
